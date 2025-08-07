@@ -1,17 +1,12 @@
-### Hi there Argentina 🇦🇷, LATAM and World 👋
+Hi, I'm Marcelo Mazza — UX veteran, creative technologist, and recovering punk rocker 🇦🇷
 
-- 🔭 I’m currently working on A SECRET PROJECT
-- 🌱 I’m currently learning Singing, Music, Writing, Art.
-- 👯 I’m looking to collaborate on anything that's worth my time.
-- 🤔 I’m looking for help with learning new stuff.
-- 💬 Ask me about anything.
-- 📫 How to reach me: @marcelomazza
-- 😄 Pronouns: ?? What? Él?
-- ⚡ Fun fact: I had two punk rock bands, I worked for some of the foundation IT companies in Argentina: deRemate.com, demotores.com, zonaprop.com, despegar.com (decolar.com), booking.com, and I'm a Toptaler since 2015:
+🚀 Currently building tools at the edge of design, code, and self-expression.  
+🎤 Exploring singing, writing, and automation — and always up for meaningful collaborations.  
+🛠️ 20+ years in product, design, and development — from LATAM startups to global platforms (Booking.com, Toptal).  
 
-- https://marcelomazza.com.ar/
-- https://www.toptal.com/resume/marcelo-mazza
-- https://www.linkedin.com/in/marcelomazza/
+If you're building something bold, hit “Follow” or check out one of my repos — I do the same when I find someone interesting.
 
-  # Blog/Writing (no analytics so far/ 22/11/23//):
-  https://mazza.com.ar/
+Links:
+- [Portfolio](https://marcelomazza.com.ar/)
+- [Toptal Resume](https://www.toptal.com/resume/marcelo-mazza)
+- [LinkedIn](https://www.linkedin.com/in/marcelomazza/)
